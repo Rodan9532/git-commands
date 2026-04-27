@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # This is an h1
 ## This is an h2
 
@@ -21,3 +22,6 @@ __this is also strong__
 * clone
 * checkout
 -  b
+=======
+
+>>>>>>> 7fed21f14b4a50b1497a64ad1521a74e9de51fad
